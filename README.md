@@ -1,1 +1,1 @@
-# MyProjects
+# Learn PowerShell script by example
