@@ -1,11 +1,17 @@
-Let us start the PowerShell script say hello to the world. A defacto standard for most of the programming language.
+Let us start the PowerShell script, say hello world!. A defacto standard for most of the programming language:-).
 
 ```powershell
 Wite-Host "Hello World!"
+
+*Output*
+Hello World!
 ```
 Write-Host cmdlet is used to send the output to the console.
 
-User name specify the color of the text using the parameter -ForegroundColor
+parameter *ForegroundColor* used to specify the color of the text. 
 ```powershell
-Write-Host "Hello" -ForegroundColor Green
+Write-Host "Hi there!" -ForegroundColor Green
+
+*Output*
+Hi there!
 ```
